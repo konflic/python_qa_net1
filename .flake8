@@ -1,0 +1,5 @@
+# documentation: https://flake8.pycqa.org/en/latest/user/configuration.html
+[flake8]
+ignore = E302
+exclude = .git,__pycache__,venv
+max-complexity = 10

@@ -1,4 +1,5 @@
 # Pylint
+# https://pylint.pycqa.org/en/latest/user_guide/checkers/features.html
 
 a = 1
 
